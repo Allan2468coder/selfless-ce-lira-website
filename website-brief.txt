@@ -1,0 +1,43 @@
+i want to build a website use the info below;
+Title; Selfless CE,lira Uganda.
+Major Links all in small letters;1.Home(hero banner hero banner with some happy african teenager students happy in a group pose wearing white t-shirts,it must have the navigation bar )
+2.About(our story including about the founders the hwang family,including wife jeanie hwang,husband abraham hwang,daughters audrey hwang.who we are,Our mission,core values,objectives,why selfless exists,about the LDS church that the organisation is under-all this information you will get online and must be accurate if u cant find let me know).
+3.Contact (here you know what to put
+
+minor links;1.Tech centers(include Mukono,jinja,mbale,lira,freedom city)
+2.Donate page(provide any numbers for help)
+3.Activities page which will have End of year party in december,tree planting 
+another is the footer must be having icons nicely at the base of the page with x,instagram and youtube 
+the selfless logo must be positioned at the best appropriate position on the website nicely .
+i was wishing for some smooth animations on our page and green and white colors mostlyused on the website.
+Build me website not app with css,html and javascript files,Use the best different fonts and their stylings,different font sizes,different perfectly matching colours used,employ use of attraactive grids.u can use working online images where images haven’t been provided but this organization is supporting african students so I expect africans only except for the founders section use Koreans,the images must be corresponding to what the descriptions are saying. Just try to use different text styles and colours to make our website extremely appealing.Our location as Selfless CE,lira brach is northern Uganda,lira,Uganda,Africa.  Makesure you get the location of this place and embed the map in contact us page and add other students experience info like 3 of them. The page layout and design adheres to proximity, alignment,white space, and repetition principles in all views. There is no horizontal scrolling found.
+The DevTools Lighthouse report returns 95+ scores for Accessibility, Best Practices, and SEO in the Mobile device setting.The page is free from color contrast errors at the AA level as reported by the CSS Overview took in DevTools.
+Images will be stored in a folder named images
+CSS files will be stored in a folder named styles
+JavaScript files will be stored in a folder named scripts
+The assignment requires you to create a responsive layout for all screen widths from (320px) and up. Add JavaScript files as needed.
+Add the standard HTML document structure to the document.
+Add the required elements to the <head> including the title, meta description, and the meta author.
+Use semantic HTML to create the basic layout structure of the page.
+Use a header, a nav, a main, and a footer element.
+Add the content as shown in the example screenshots above.
+Note that all images used on your pages must be optimized
+a hamburger icon on small screens.
+CSS
+As you style and layout your page, ensure that the following, required web design principles and best design practices are met.
+Appropriate proximity, alignment, repetition, and contrast design principles are used.
+There is no horizontal scrolling in views between 320px to 1200px wide.
+Text does not touch the edge of the screen causing a visual tangent error.
+Any text overlays on images, other elements, or other text/content is legible and does not overflow in smaller views.
+That there is no twitching in the navigation on hover.
+Images are not squished nor distorted as the page is resized.
+Images are not oversized causing pixelation.
+Use your own color scheme and typography choices.
+Use the Google Fonts API to select one font family to use on this page. We covered this in
+Responsive navigation must support the following features:
+Responsive design includes providing a positive user experience of readability, usability, accessibility, visual appeal that adapts to the user's device by size, orientation, and resolution.
+small-screen hamburger like navigation
+large-screen horizontal navigation using CSS Flex
+wayfinding
+hover effect for menu items
+makesure all images are working just perfectly and correspond accurately with what has been talked about/description
